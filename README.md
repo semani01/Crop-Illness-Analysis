@@ -1,5 +1,12 @@
 # FloraSense: Deep Learning for Crop Illness Analysis 🌿
 
+<p align="center">
+  <!-- Badge linking to your LICENSE file in GitHub -->
+  <a href="https://github.com/semani01/Crop-Illness-Analysis/blob/main/LICENSE">
+    <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-darkgreen.svg" />
+  </a>
+</p>
+
 ## 🌟 Overview
 FloraSense is an advanced **deep learning-based solution** designed to **detect and classify plant diseases** using **image classification techniques**. The project leverages **hybrid Convolutional Neural Networks (CNNs)** by combining **ResNet50** and **InceptionV3** to achieve **high accuracy in plant disease identification**.
 
